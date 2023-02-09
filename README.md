@@ -1,4 +1,4 @@
-# Analise-EstudosDeCaso
+# Analise-EstudoBlockchain
 Repositorio para o seminario da cadeira de segurança no IFPB - Campus Cajazeiras
 
 Para rodar a aplicação clone este repositorio: <br>
